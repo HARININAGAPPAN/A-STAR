@@ -222,6 +222,7 @@ Heuristic Values
 {'a': 1, 'b': 2, 'c': 5, 'd': 4, 'e': 3}
 ## Output:
 <img width="640" height="504" alt="image" src="https://github.com/user-attachments/assets/5c1328fe-feb0-48da-b627-29e1cb62a129" />
+
 ## start path and end path:
 Enter Start Node: b
 Enter Goal Node: e
