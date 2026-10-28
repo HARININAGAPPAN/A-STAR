@@ -229,9 +229,9 @@ Enter Goal Node: e
 
 Shortest Path: b -> c -> d -> e
 Total Cost: 9
+
 ## output:
 <img width="640" height="504" alt="image" src="https://github.com/user-attachments/assets/5b3be2e4-57d8-4ebf-ba68-8bac8f4ea02e" />
-
 
 ## Result:
 Thus, the Breadth-First Search (BFS) algorithm was implemented successfully in Python. The graph was traversed starting from node A, and the BFS traversal obtained was A, B, C, D.
